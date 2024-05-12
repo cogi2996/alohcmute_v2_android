@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77478751851",
+    "project_id": "alohcmute-v2",
+    "storage_bucket": "alohcmute-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77478751851:android:7d509e8503c04c64254b2e",
+        "android_client_info": {
+          "package_name": "com.example.alohcmute_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFei_0yATDe780ZC4-LpJ_NwWg9OrRYvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
