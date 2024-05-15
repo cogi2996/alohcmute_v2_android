@@ -71,7 +71,6 @@ public class PostAdapter extends RecyclerView.Adapter<PostAdapter.MyViewHolder> 
 
     public class MyViewHolder extends RecyclerView.ViewHolder {
         LottieAnimationView likeAnimation;
-
         private TextView postText, postCreateTime, countLike;
         private ImageView postImage;
         private ImageView liked;
